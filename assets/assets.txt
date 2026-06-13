@@ -1,6 +1,7 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-6fa1ae37c389df07b68eb85edd099925.txt:69:text/plain:1
+t:assets.txt:assets-84f5bfef3d6aa638c0f579ba9bb7c5f3.txt:79:text/plain:1
 i:block.png:block-bbd6df1ddd0e183caee573e96d5a5c83.png:399:image/png:1
+i:frame.png:frame-7f5d3e68ad111982212ff4c7b62c4a25.png:748:image/png:1
 i:libgdx.png:libgdx-6ce2ac53bc1738a1e5ac95f05dceb4a5.png:2456:image/png:1
 i:pixel.png:pixel-546e99843d061595cee2426426c981c1.png:349:image/png:1
 t:press_start_2p.fnt:press_start_2p-652e5da08b5bbc2618a22e449ffef4fe.fnt:17415:application/unknown:1
