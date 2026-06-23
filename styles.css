@@ -3,9 +3,22 @@ canvas {
     outline: none;
 }
 
+/* Настройки для страницы игры */
 body {
     background-color: #222222;
     margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center; /* Центрируем холст по горизонтали */
+    align-items: center;     /* Центрируем холст по вертикали */
+    height: 100vh;
+    width: 100vw;
+}
+
+/* ID контейнера LibGDX игры по умолчанию */
+#embed-html {
+   box-shadow: 0 0 30px rgba(0, 255, 255, 0.2); /* Красивая неоновая тень вокруг автомата */
 }
 
 p {
